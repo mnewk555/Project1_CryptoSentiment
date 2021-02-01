@@ -21,8 +21,9 @@
 
 ### Datasets to be used
     Coinbase Pro - Daily crpto data
-    Coin Registry - Crypto metadata
-    StockTwits - Sentiment  Analysis  / Other twitter api?
+    Twitter API
+    TextBlob Library
+    Tweepy Library
 
 ### Rough breakdown of tasks
     Get crypto data
