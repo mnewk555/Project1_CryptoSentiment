@@ -47,6 +47,6 @@ Time-analysis of trend and possible social media correlations
 ### Key Files
     notebooks/final_presentation_notebook.ipynb - notebook used for in class presentation
     notebooks/twitter_reader - the main notebook used to pull twitter API data
-    Michael_edits/data_cleaner_main.ipynb  - main notebook useed to pull crypto data and clean it.
+    notebooks/crypto_cleaner.ipynb  - main notebook useed to pull crypto data and clean it.
     FinTech - Crypto Dashboard.pdf - Presentation Deck
     
